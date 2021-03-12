@@ -1,5 +1,6 @@
 #  Password Locker
 
+## By Uwishema Ange Clairette
 
 ## Project Description
 
