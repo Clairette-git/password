@@ -22,7 +22,7 @@ class TestUser(unittest.TestCase):
         """
         self.assertEqual(self.new_credential.user_name, "user_name")
         self.assertEqual(self.new_credential.password, "password")
-        self.assertEqual(self.new_credential.email, "email@ms.com")
+        self.assertEqual(self.new_credential.email, "email@gmail.com")
 
     def test_save_cred(self):
         """
